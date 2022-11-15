@@ -6,7 +6,7 @@ https://adventofcode.com/2022
 
 | Person | Language |
 |----------|----------|
-| Andy | ? |
+| Andy | Python |
 | Cameron | go |
 | Jackbennett | Rust |
 | Nick B | Switf | 
